@@ -1,4 +1,4 @@
- ![alt text](https://github.com/loti-ibrahimi/Spruced/blob/master/Spruced-logo.png) 
+ ![alt text](https://github.com/loti-ibrahimi/Project-5/blob/master/LOQR-logo.png) 
  ### Creator: Loti Ibrahimi 
  ### Student Number: 20015453
  
